@@ -1285,3 +1285,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [455]: https://github.com/fernandotonon/QtMeshEditor
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer.
